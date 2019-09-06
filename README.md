@@ -5,6 +5,3 @@ Currently you are in the main repository where we gather all specifications and 
 
 - http://github.com/dskarataev/dskmoney-golang for Go
 - http://github.com/dskarataev/dskmoney-spring for Spring framework (Java)
-- http://github.com/dskarataev/dskmoney-django for Django framework (Python)
-- http://github.com/dskarataev/dskmoney-symfony for Symfony framework (PHP)
-- http://github.com/dskarataev/dskmoney-odoo for Odoo framework (Python)
